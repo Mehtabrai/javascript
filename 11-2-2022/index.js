@@ -17,4 +17,3 @@ else(Age < 18 && City === "diplo" && Gender === "fe-Male")
     console.log("sorry try later")
     alert("sorry try later")
 }
-
